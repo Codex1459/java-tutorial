@@ -11,8 +11,9 @@ A beginner-friendly project to learn and practice Java concepts.
 ##  How to Run
 
 1. Compile:
-   javac OOPSBannerUC2.java
+   javac main.java OOPSBannerUC2.java 
 
 2. Run:
+   java main
    java OOPSBannerUC2
 
