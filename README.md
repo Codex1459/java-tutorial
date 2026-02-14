@@ -13,7 +13,7 @@ A beginner-friendly project to learn and practice Java concepts.
 ### 1. Compile
 
 ```bash
-javac main.java OOPSBannerUC2.java level1
+javac main.java OOPSBannerUC2.java level1.java
 ```
 ### 2. Run
 ```bash
