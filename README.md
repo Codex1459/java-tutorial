@@ -10,10 +10,10 @@ A beginner-friendly project to learn and practice Java concepts.
 
 ##  How to Run
 
-1. Compile:
+1. Compile:<br>
    javac main.java OOPSBannerUC2.java 
 
-2. Run:
+2. Run:<br>
    java main <br>
    java OOPSBannerUC2
 
