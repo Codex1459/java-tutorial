@@ -14,6 +14,6 @@ A beginner-friendly project to learn and practice Java concepts.
    javac main.java OOPSBannerUC2.java 
 
 2. Run:
-   java main
+   java main <br>
    java OOPSBannerUC2
 
